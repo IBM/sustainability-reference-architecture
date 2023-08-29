@@ -2,7 +2,6 @@ title: Information
 nav:
     - index.md
     - Overview.md
-    - Intelligent-Asset-System-Context.md
-    - Use-Case-Model
-    - Requirements
-    - Architecture-Overview
+    - Scope
+    - Requirement
+    - Architecture
