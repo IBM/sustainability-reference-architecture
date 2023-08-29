@@ -3,12 +3,12 @@
 # Information
 
 <div style="text-align: left">For the latest updates, go to 
-    <a href="https://it.architect-assistant.ibm.com/architectures/Private/arch_S1d3hhra3">IBM IT Architect Assistant</a>.
+    <a href="https://it.architect-assistant.ibm.com/architectures/Private/arch_SJbcs2S63">IBM IT Architect Assistant</a>.
 </div>
 
 | Architecture Name | Type | Shared As-Is? | isDiscoverable |
 | --- | --- | --- | --- |
-| [Sustainability Reference Architecture 1.0](https://it.architect-assistant.ibm.com/architectures/Private/arch_S1d3hhra3) | Solution Architecture | Yes | No|
+| [Intelligent Asset Reference Architecture](https://it.architect-assistant.ibm.com/architectures/Private/arch_SJbcs2S63) | Solution Architecture | Yes | No|
 
 
 
@@ -28,6 +28,11 @@ Cross-Industry
 
 
 
+### Technology
+
+
+Internet of Things  
+
 
 
 
@@ -35,7 +40,8 @@ Cross-Industry
 ### Business Objectives
 
 
-Become more digital  
+Be more responsive  
+Modernize ways of working  
 Reduce business costs  
 
 
@@ -46,6 +52,7 @@ Reduce business costs
 
 
 Integrating apps & data  
+IT Costs  
 
 
 
@@ -54,7 +61,15 @@ Integrating apps & data
 ### Tag
 
 
+Health, Safety, Security and Environment  
+Cognitive Manufacturing  
 Cognitive Manufacturing & Maintenance  
+IoT For Electronics  
+Hybrid Cloud Platform  
+Asset Management and Optimization  
+Manufacturing & Supply Chain  
+IoT Platform  
+Asset Performance  
 
 
 
