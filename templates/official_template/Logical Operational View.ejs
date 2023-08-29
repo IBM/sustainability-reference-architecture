@@ -170,7 +170,7 @@ All connections are not named.
         <td> <strong>Related Diagrams</strong> </td>
         <td><% if (data.diagramRelation && data.diagramRelation[ele._id] && data.diagramRelation[ele._id].diagram) { %>
             <% data.diagramRelation[ele._id].diagram.forEach(gg=> { %>
-                <div><a href="<%- 'URL_' + gg.properties._id %>"><%- gg.properties.name %></a><% if (!data.instanceList.includes(gg.properties._id)) { %> (Not Exported)<% } %></div>
+                <div><a href="<%- 'URL_' + gg.properties._id %>"><%- gg.properties.name %></a></div>
             <% }) %>
         <% } %></td>
     </tr>
@@ -183,7 +183,7 @@ All connections are not named.
                 <div><%- gg.properties.name %></div>
                 <% if (gg.properties._id && data.diagramRelation && data.diagramRelation[gg.properties._id]) { %>
                     <% data.diagramRelation[gg.properties._id].diagram.forEach(dia => { %>
-                    <li><a href="<%- 'URL_' + dia.properties._id %>"><%- dia.properties.name %></a><% if (!data.instanceList.includes(dia.properties._id)) { %> (Not Exported)<% } %></li>
+                    <li><a href="<%- 'URL_' + dia.properties._id %>"><%- dia.properties.name %></a></li>
                     <% }) %>
                 <% } %>
             <% }) %>
@@ -191,7 +191,7 @@ All connections are not named.
                 <div><%- gg.properties.name %></div>
                 <% if (gg.properties._id && data.diagramRelation && data.diagramRelation[gg.properties._id]) { %>
                     <% data.diagramRelation[gg.properties._id].diagram.forEach(dia => { %>
-                    <li><div><a href="<%- 'URL_' + dia.properties._id %>"><%- dia.properties.name %></a><% if (!data.instanceList.includes(dia.properties._id)) { %> (Not Exported)<% } %></div></li>
+                    <li><div><a href="<%- 'URL_' + dia.properties._id %>"><%- dia.properties.name %></a></div></li>
                     <% }) %>
                 <% } %>
             <% }) %>
