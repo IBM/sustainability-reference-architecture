@@ -6,11 +6,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Intelligent-Asset-System-Context/</loc>
-         <lastmod>2023-08-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Overview/</loc>
          <lastmod>2023-08-29</lastmod>
          <changefreq>daily</changefreq>
@@ -21,102 +16,122 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Architecture-Overview/Enterprise-View/Intelligent-Asset-Reference-Architecture/</loc>
+         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Architecture/Architectural-Decisions/Hybrid-Cloud-or-On-Premise-Approach/</loc>
          <lastmod>2023-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Architecture-Overview/IT-System-View/Deployment-Overview/</loc>
+         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Architecture/Architecture-Overview/Enterprise-View/Sustainability-Overview-Reference-Architecture/</loc>
          <lastmod>2023-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Requirements/Functional/Maximo-Application-Suite--Health-Functional-Requirement/</loc>
+         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Architecture/Architecture-Overview/IT-System-View/Deployment-Overview---Current-State/</loc>
          <lastmod>2023-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Requirements/Functional/Maximo-Application-Suite--Manage-Functioanl-Requirement/</loc>
+         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Architecture/Architecture-Overview/Usage-Scenario/Managing-an-Asset/</loc>
          <lastmod>2023-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Requirements/Functional/Maximo-Application-Suite--Monitor-Functional-Requirements/</loc>
+         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Requirement/Functional-Requirements/Asset-operations-anomaly-detection-with-actionable-insight/</loc>
          <lastmod>2023-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Requirements/Functional/Maximo-Application-Suite--Predict-Functional-Requirement/</loc>
+         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Requirement/Functional-Requirements/Climate-risk-mitigation-recommendation-with-actionable-insight/</loc>
          <lastmod>2023-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Requirements/Functional/Maximo-Application-Suite--Visual-Inspection-Functional-Requirements/</loc>
+         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Requirement/Functional-Requirements/ESG-Goal-setting-and-tracking/</loc>
          <lastmod>2023-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Requirements/Non-Functional/Maintainability-of-Assets-based-on-Location/</loc>
+         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Requirement/Functional-Requirements/Facility-Space-operations-anomaly-detection-with-actionable-insight/</loc>
          <lastmod>2023-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Requirements/Non-Functional/Manageability-of-Assets/</loc>
+         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Requirement/Functional-Requirements/IT-operations-anomaly-detection-with-actionable-insight/</loc>
          <lastmod>2023-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Requirements/Non-Functional/Manageability-of-Linear-Assets/</loc>
+         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Requirement/Functional-Requirements/Tracking-supplier-sustainability-performance-and-promoting-sustainable-sourcing/</loc>
          <lastmod>2023-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Requirements/Non-Functional/Performance-of-assets/</loc>
+         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Requirement/Non-Functional-Requirements/High-Availablity---Disaster-Recovery/</loc>
          <lastmod>2023-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Use-Case-Model/Use-Case/Assist--Collaborate-with-experts-to-resolve-problems/</loc>
+         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Requirement/Non-Functional-Requirements/Interoperability/</loc>
          <lastmod>2023-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Use-Case-Model/Use-Case/Health--Manage-the-health-of-your-assets/</loc>
+         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Requirement/Non-Functional-Requirements/Performance/</loc>
          <lastmod>2023-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Use-Case-Model/Use-Case/Manage--Manage-asset-maintenance/</loc>
+         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Requirement/Non-Functional-Requirements/Scalability/</loc>
          <lastmod>2023-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Use-Case-Model/Use-Case/Mobile--Manage-any-asset--anytime--any-place./</loc>
+         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Requirement/Non-Functional-Requirements/Security/</loc>
          <lastmod>2023-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Use-Case-Model/Use-Case/Monitor--Achieve-asset-monitoring-at-scale/</loc>
+         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Requirement/Non-Functional-Requirements/Usability/</loc>
          <lastmod>2023-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Use-Case-Model/Use-Case/Predict--Predict-the-likelihood-of-future-failures/</loc>
+         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Requirement/Use-Case-Model/Use-Case/Asset-Operation-Optimization-for-Sustainability/</loc>
          <lastmod>2023-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Use-Case-Model/Use-Case/Safety--Use-Data-to-protect-workers/</loc>
+         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Requirement/Use-Case-Model/Use-Case/Climate-Risk-Management-for-Sustainability/</loc>
          <lastmod>2023-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Use-Case-Model/Use-Case/Visual-Inspection--Visually-detect-anomalies/</loc>
+         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Requirement/Use-Case-Model/Use-Case/Green-IT-for-Sustainability/</loc>
          <lastmod>2023-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Use-Case-Model/Use-Case-Diagram/Intelligent-Asset-Use-Case/</loc>
+         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Requirement/Use-Case-Model/Use-Case/Space-Utilization-Optimization-for-Sustainability/</loc>
+         <lastmod>2023-08-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Requirement/Use-Case-Model/Use-Case/Supply-Chain-Optimization-for-Sustainability/</loc>
+         <lastmod>2023-08-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Requirement/Use-Case-Model/Use-Case-Diagram/Business-Use-Cases/</loc>
+         <lastmod>2023-08-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Scope/Business%20Challenge/</loc>
+         <lastmod>2023-08-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://pages.github.ibm.com/ibm/sustainability-reference-architecture/Scope/Sustainability-System/</loc>
          <lastmod>2023-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
