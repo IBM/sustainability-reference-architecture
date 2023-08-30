@@ -15,10 +15,12 @@ For questions or more information, contact us at [Contact Email].
 For more information on IBM IT Architect Assistant, contact us at cogarch@us.ibm.com.  
 
 
-## Disclaimer
+---
 
-Please note that the sustainability reference architecture is intended to serve as a high-level demonstration of how combined systems can deliver value and contribute to achieving sustainability goals. Users should consider creating architecture(s) to align with their organization's specific systems and components for optimal implementation.  
+### Disclaimer
+
+Please note that the sustainability reference architecture is intended to serve as a high-level demonstration of how systems can be combined to not only deliver value, but also contribute to achieving sustainability goals. Users should consider replicating this exemplar and modifying it to align with their organization’s specific systems and components for optimal implementation.  
 
 
 
-Last modified on: 2023-08-30
+###### Last modified on: 2023-08-30
