@@ -22,9 +22,9 @@ Please note that the sustainability reference architecture is intended to serve 
 
 #### Customizing the architecture with the *IBM IT Architect Assistant* application
 
-You can try out *IBM IT Architect Assistant* to make a copy of the architecture and modify it to support your specific goals.  
+If you are an IBM customer or business partner, you can try out *IBM IT Architect Assistant* to make a copy of the architecture and modify it to support your specific goals.  
 
-If you are new to *IBM IT Architect Assistant* and would like to try it out, send an email to cogarch@us.ibm.com with the subject line of "Request IIAA access".  
+If you are new to *IBM IT Architect Assistant* and would like to try it out, send an email to cogarch@us.ibm.com with the subject line of "Request IIAA access", along with your name, company name, and purpose of the request.  
 
 <div style="text-align: left">This architecture can be viewed and modified in 
     <a href="https://it.architect-assistant.ibm.com/architectures/Social/arch_S1d3hhra3">IBM IT Architect Assistant</a>.
