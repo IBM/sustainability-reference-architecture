@@ -6,7 +6,7 @@ In these GitHub Pages, you can explore how important data sources for creating s
 
 The Sustainable Reference Architecture reveals how different software applications from various business areas can collaborate to reach ESG goals. It emphasizes the significance of these data sources for tracking, reporting, and using Analytics and AI for ESG objectives.  
 
-For questions or more information, contact us at bsanthana@us.ibm.com.  
+For questions or more information, contact us at SSW-Architecture-Questions@ibm.com.  
 
 
 
