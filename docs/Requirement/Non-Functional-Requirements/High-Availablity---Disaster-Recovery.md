@@ -1,12 +1,12 @@
 
 
-#  NFR 6 - High Availablity & Disaster Recovery
+#  Non-Functional Requirements 6 - High Availablity & Disaster Recovery
 
 
 
 ### Description
 
-High Availability means a system can remain operational and accessible for extended periods, minimizing downtime and ensuring continuous service availability. Disaster Recovery focuses on the strategies and processes to swiftly recover and restore IT systems and data in a catastrophic failure or disaster.
+<p>High Availability means a system can remain operational and accessible for extended periods, minimizing downtime and ensuring continuous service availability. Disaster Recovery focuses on the strategies and processes to swiftly recover and restore IT systems and data in a catastrophic failure or disaster.</p>
 
 
 
@@ -21,7 +21,7 @@ Performance
 
 ### Context
 
- High Availability pertains to maintaining uninterrupted system operation, whereas "Disaster Recovery" addresses the processes and measures necessary for swiftly restoring functionality after a significant system failure or catastrophic event.
+<p>High Availability pertains to maintaining uninterrupted system operation, whereas &quot;Disaster Recovery&quot; addresses the processes and measures necessary for swiftly restoring functionality after a significant system failure or catastrophic event.</p>
 
 
 

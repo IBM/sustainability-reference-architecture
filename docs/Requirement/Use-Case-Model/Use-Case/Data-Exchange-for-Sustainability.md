@@ -1,5 +1,5 @@
 
-#  Use Case 3 - Climate Risk Management for Sustainability
+#  Use Case 6 - Data Exchange for Sustainability
 
 
 
@@ -7,7 +7,7 @@
 
 ### Description
 
-Identify, assess, and manage climate-related risks to an organization's operations, assets, and stakeholders through effective risk management strategies.
+<p>To enable organizations to securely share and analyze sustainability-related data across ecosystems, facilitating collaboration and informed decision-making for carbon reduction and environmental impact initiatives.</p>
 
 
 

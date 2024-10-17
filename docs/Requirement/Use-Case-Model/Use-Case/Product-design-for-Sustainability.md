@@ -1,5 +1,5 @@
 
-#  Use Case 3 - Climate Risk Management for Sustainability
+#  Use Case 7 - Product design for Sustainability
 
 
 
@@ -7,7 +7,7 @@
 
 ### Description
 
-Identify, assess, and manage climate-related risks to an organization's operations, assets, and stakeholders through effective risk management strategies.
+<p>To enable sustainability principles in the design and development of products, focusing on reducing environmental impact, enhancing resource efficiency, and supporting circular economy practices throughout the product lifecycle.</p>
 
 
 

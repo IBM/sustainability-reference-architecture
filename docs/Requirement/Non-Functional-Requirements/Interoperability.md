@@ -1,12 +1,12 @@
 
 
-#  NFR 1 - Interoperability
+#  Non-Functional Requirements 1 - Interoperability
 
 
 
 ### Description
 
-Different systems, technologies, and data formats can seamlessly work together and exchange information.
+<p>Different systems, technologies, and data formats can seamlessly work together and exchange information.</p>
 
 
 
@@ -21,7 +21,7 @@ Manageability
 
 ### Context
 
-Interoperability ensures that various software applications, hardware devices, and systems can exchange data and function cohesively within an architecture framework.
+<p>Interoperability ensures that various software applications, hardware devices, and systems can exchange data and function cohesively within an architecture framework.</p>
 
 
 
