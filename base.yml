@@ -13,11 +13,13 @@ dev_addr: '127.0.0.1:8000'
 # Legal links (do not edit or remove)
 legal:
   privacy_label: 'Privacy Policy'
-  privacy_link: 'https://www.ibm.com/us-en/privacy'
+  privacy_link: 'https://w3.ibm.com/w3publisher/w3-privacy-notice/'
   terms_label: 'Terms of Use'
-  terms_link: 'https://www.ibm.com/legal?lnk=flg-tous-usen'
+  terms_link: 'https://w3.ibm.com/w3publisher/w3-terms-of-use'
   a11y_label: 'Accessibility'
-  a11y_link: 'https://www.ibm.com/able/?lnk=flg-acce-usen'
+  a11y_link: 'https://w3.ibm.com/able/index.html'
+  bcg_label: 'Business Conduct Guidelines'
+  bcg_link: 'https://w3.ibm.com/w3publisher/trust-compliance/bcgs'
 
 # Handbook Template Information
 oic_handbook:
@@ -77,10 +79,10 @@ extra_css:
 # Extra links as icons at the bottom of the page
 extra:
   social:
-  #  - icon: fontawesome/brands/slack
-  #    link: https://ibmaot.slack.com/archives/CU6UDHRAT
-  #  - icon: fontawesome/brands/github
-  #    link: https://github.ibm.com/oic/
+    - icon: fontawesome/brands/slack
+      link: https://ibmaot.slack.com/archives/CU6UDHRAT
+    - icon: fontawesome/brands/github
+      link: https://github.ibm.com/oic/
     - icon: fontawesome/solid/globe
       link: https://www.ibm.com/
 

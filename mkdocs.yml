@@ -5,17 +5,17 @@
 INHERIT: ./base.yml
 
 # Project Information
-site_name: "Sustainability Reference Architecture 1.0"
-site_url: "https://pages.github.ibm.com/ibm/sustainability-reference-architecture/"
-site_description: "Sustainability Reference Architecture 1.0"
-site_author: "ibm"
+site_name: "CognitiveArchitectHandbookName"
+site_url: "https://pages.github.ibm.com/CognitiveArchitectRepoParent/CognitiveArchitectRepoDir/"
+site_description: "CognitiveArchitectSiteDescription"
+site_author: "CognitiveArchitectSiteAuthor"
 
 # Repository Information
-repo_name: 'ibm/sustainability-reference-architecture'
-repo_url: 'https://github.ibm.com/ibm/sustainability-reference-architecture'
+repo_name: 'CognitiveArchitectRepoParent/CognitiveArchitectRepoDir'
+repo_url: 'https://github.ibm.com/CognitiveArchitectRepoParent/CognitiveArchitectRepoDir'
 
 # Copyright
-#copyright: <a href="/about/">ibm</a>.
+#copyright: <a href="/about/">CognitiveArchitectSiteAuthor</a>.
 
 # Customize Handbook Template information visibility
 oic_handbook:
@@ -57,11 +57,11 @@ markdown_extensions:
       repo_url_shortener: true
       repo_url_shorthand: false
       social_url_shorthand: true
-      user: ibm
-      repo: ibm/sustainability-reference-architecture
+      user: CognitiveArchitectIBMGitHub
+      repo: CognitiveArchitectRepoParent/CognitiveArchitectRepoDir
   toc:
       permalink: true
-      toc_depth: 3
+      toc_depth: 6
 
 plugins:
   # Allow Tags on the pages - see https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/
@@ -69,13 +69,13 @@ plugins:
       tags_file: tags.md
 #   # Configure the PDF export plugin - see https://github.com/zhaoterryy/mkdocs-pdf-export-plugin
 #   with-pdf: # This creates a single PDF document for the whole site
-#       author: ibm
-#       copyright: Copyright &copy; ibm
+#       author: CognitiveArchitectSiteAuthor
+#       copyright: Copyright &copy; CognitiveArchitectSiteAuthor
 #       cover: true
 #       back_cover: false
 #       #
-#       cover_title: Sustainability Reference Architecture 1.0
-#       cover_subtitle: Sustainability Reference Architecture 1.0
+#       cover_title: CognitiveArchitectHandbookName
+#       cover_subtitle: CognitiveArchitectSiteDescription
 #       cover_logo: 'theme/logo-ibm-dark.png'
 #       #custom_template_path: TEMPLATES PATH
 #       #
@@ -101,7 +101,7 @@ plugins:
 #       # render_js: true
 #       #headless_chrome_path: headless-chromium
 #       #
-#       output_path: ./pdf/sustainability-reference-architecture.pdf
+#       output_path: ./pdf/CognitiveArchitectRepoDir.pdf
 #       enabled_if_env: ENABLE_PDF_EXPORT
 #       #
 #       debug_html: true
