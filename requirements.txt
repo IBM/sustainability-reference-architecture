@@ -23,7 +23,7 @@ mkdocs-with-pdf==0.9.3
 mkdocs-plugin-inline-svg==0.1.0
 pydyf==0.2.0
 cffi==1.15.0
-weasyprint==52.5
+weasyprint==70.0
 
 ## The following requirements were added by pip freeze:
 actdiag==3.0.0
